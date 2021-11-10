@@ -1,0 +1,226 @@
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\appsettings.json
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.exe
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.pdb
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.Views.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.Views.pdb
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csprojAssemblyReference.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.Manifest.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.xml
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\scopedcss\bundle\TestApplication.styles.css
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.input.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.output.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorCoreGenerate.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cache
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cs
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.Views.pdb
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CopyComplete
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.Common.BaseMessages.resources
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.Common.Utilities.ResponseExtension.ResponseMessages.resources
+D:\demo1\api\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.GenerateResource.cache
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Google.Ads.Common.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\NHibernate.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\Remotion.Linq.EagerFetching.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\demo1\api\TestApplication\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.csprojAssemblyReference.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.Common.BaseMessages.resources
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.Common.Utilities.ResponseExtension.ResponseMessages.resources
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.csproj.GenerateResource.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.dll
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\appsettings.json
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.exe
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.Views.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\TestApplication.Views.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Google.Ads.Common.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\NHibernate.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\Remotion.Linq.EagerFetching.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\ServiceStack.Interfaces.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.ServiceModel.Http.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.ServiceModel.Primitives.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.ServiceModel.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\System.ServiceModel.Security.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Private.ServiceModel.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\demo1\New folder\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.Manifest.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.xml
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\scopedcss\bundle\TestApplication.styles.css
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.input.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.output.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.RazorCoreGenerate.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cache
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cs
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.Views.pdb
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.csproj.CopyComplete
+D:\demo1\New folder\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
